@@ -1,8 +1,8 @@
 #
-# Graph: ../../graph-ncp-project/datasets/facebook_pages/musae_facebook_no_self_loops.txt -> musae_facebook_no_self_loops musae_facebook_no_self_loops A=0.001, K=1000-1.5-100M, Cvr=10, SzFrc=0.001 G(19153, 167137) (Tue Nov 25 13:20:29 2025)
+# Graph: ../../../datasets/facebook_pages/musae_facebook_no_self_loops.txt -> musae_facebook_no_self_loops musae_facebook_no_self_loops A=0.001, K=1000-1.5-100M, Cvr=10, SzFrc=0.001 G(19153, 167137) (Tue Nov 25 16:30:16 2025)
 #
 
-set title "Graph: ../../graph-ncp-project/datasets/facebook_pages/musae_facebook_no_self_loops.txt -> musae_facebook_no_self_loops musae_facebook_no_self_loops A=0.001, K=1000-1.5-100M, Cvr=10, SzFrc=0.001 G(19153, 167137)"
+set title "Graph: ../../../datasets/facebook_pages/musae_facebook_no_self_loops.txt -> musae_facebook_no_self_loops musae_facebook_no_self_loops A=0.001, K=1000-1.5-100M, Cvr=10, SzFrc=0.001 G(19153, 167137)"
 set key bottom right
 set logscale xy 10
 set format x "10^{%L}"
