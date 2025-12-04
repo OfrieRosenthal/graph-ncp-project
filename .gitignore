@@ -1,11 +1,3 @@
-results/snap_calc/snap+lgc/facebook_pages/combined_min_phi.csv
-results/snap_calc/facebook_pages/ncp.musae_facebook_no_self_loops.clusters.tabresults/snap_calc/facebook_pages/ncp.musae_facebook_no_self_loops.clusters.tab
-ncp_processing/combined_min_phi.csv
-results/snap+lgc/facebook_pages/combined_min_phi.csv
-results/local_ncp/
-results/snap_with_whiskers/
-results/snap_no_whiskers/
-results/snap_with_whiskers+lgc/
-results/snap_no_whiskers+lgc/
-/home/ofrie.r/graph-ncp-project/results/snap+lgc/facebook_pages/combined_min_phi.csv
-results/snap_calc/facebook_pages/ncp.musae_facebook_no_self_loops.clusters.tab
+datasets/ncp_outputs/
+results/
+/home/ofrie.r/graph-ncp-project/edge_addition/results
