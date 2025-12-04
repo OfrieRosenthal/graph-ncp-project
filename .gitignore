@@ -3,5 +3,9 @@ results/snap_calc/facebook_pages/ncp.musae_facebook_no_self_loops.clusters.tabre
 ncp_processing/combined_min_phi.csv
 results/snap+lgc/facebook_pages/combined_min_phi.csv
 results/local_ncp/
+results/snap_with_whiskers/
+results/snap_no_whiskers/
+results/snap_with_whiskers+lgc/
+results/snap_no_whiskers+lgc/
 /home/ofrie.r/graph-ncp-project/results/snap+lgc/facebook_pages/combined_min_phi.csv
 results/snap_calc/facebook_pages/ncp.musae_facebook_no_self_loops.clusters.tab
